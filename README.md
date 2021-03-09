@@ -1,8 +1,8 @@
 # **Equipe-Website**
 
 ## Dados da Turma
-* Dia da semana:**Sexta**
-* Período: **Noturno **
+* Dia da semana: **Sexta**
+* Período: **Noturno
 
 ## Integrantes
 | RA | NOME COMPLETO | CURSO | TURMA |
