@@ -1,6 +1,10 @@
-# Equipe-Website
+# **Equipe-Website**
 
-# Integrantes
+## Dados da Turma
+* Dia da semana: **Quarta-Feira 
+* Período: **Noturno
+
+## Integrantes
 | RA | NOME COMPLETO | CURSO | TURMA |
 |------|---------------|-------|-------|
 |3021102941 | GABRIEL DE SOUZA ROCHA | TADS | 1A|
@@ -14,4 +18,4 @@
 |320201835 | FABRÍCIO MATIAS DE SIQUEIRA | TADS | 1A|
 |3021104256 | PATRICK SALVATORE DOS SANTOS CUNSOLO | TADS | 1A|
 
-# Descrição do Projeto
+## Descrição do Projeto
