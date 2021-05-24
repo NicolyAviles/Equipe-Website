@@ -1,0 +1,152 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+/*1º Botões*/
+
+.header li{
+	display: inline;
+}
+
+.btn{
+	overflow: hidden;
+	font-family: arial;
+	font-size: 18px;
+	font-weight: 700;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+	color: black;
+	display: inline-block;
+	text-decoration: none;
+	background: #DCDCDC;
+}
+
+
+
+/*1º carrossel*/
+
+.carrossel{
+	width: 329px;
+	height: 220px;
+	outline: 3px solid black;
+	overflow: hidden;
+
+	margin: 50px auto;
+	box-shadow: 10px 10px 15px rgba(0,0,0,0.7);
+}
+
+.carrossel ul{
+	display: flex;
+	list-style: none;
+	width: 2961px;
+	height: 220px;
+}
+
+.carrossel li{
+	position: relative;
+	animation: slide 50s infinite ease-out;
+}
+
+@keyframes slide{
+	0%{right: 0px}
+	5%{right: 0px}
+
+	10%{right: 329px}
+	15%{right: 329px}
+
+	20%{right: 658px}
+	25%{right: 658px}
+
+	30%{right: 987px}
+	35%{right: 987px}
+
+	40%{right: 1316px}
+	45%{right: 1316px}
+
+	50%{right: 1645px}
+	55%{right: 1645px}
+
+	60%{right: 1974px}
+	65%{right: 1974px}
+
+	70%{right: 2303px}
+	75%{right: 2303px}
+
+	80%{right: 2632px}
+	85%{right: 2632px}
+
+	90%{right: 2961px}
+	95%{right: 2961px}
+
+	100%{right: 0px}
+}
+
+
+/*2º carrossel*/
+
+.carrossel2{
+	width: 220px;
+	height: 329px;
+	outline: 3px solid black;
+	overflow: hidden;
+
+	margin: 50px auto;
+	box-shadow: 10px 10px 15px rgba(0,0,0,0.7);
+}
+
+.carrossel2 ul{
+	display: flex;
+	list-style: none;
+	width: 3000px;
+	height: 329px;
+}
+
+.carrossel2 li{
+	position: relative;
+	animation: slides 50s infinite ease-out;
+}
+
+@keyframes slides{
+	0%{right: 0px}
+	5%{right: 0px}
+
+	10%{right: 220px}
+	15%{right: 220px}
+
+	20%{right: 440px}
+	25%{right: 440px}
+
+	30%{right: 660px}
+	35%{right: 660px}
+
+	40%{right: 880px}
+	45%{right: 880px}
+
+	50%{right: 1100x}
+	55%{right: 1100px}
+
+	60%{right: 1320px}
+	65%{right: 1320px}
+
+	70%{right: 1540px}
+	75%{right: 1540px}
+
+	80%{right: 1760px}
+	85%{right: 1760px}
+
+	90%{right: 1980px}
+	95%{right: 1980px}
+
+	100%{right: 0px}
+}
+
+
+/*2º Rodapé*/
+
+.footer{
+	font-family: arial;
+	color: black;
+}
