@@ -24,6 +24,21 @@
 	background: #DCDCDC;
 }
 
+/*Botões do quiz
+
+.btnq{
+	overflow: hidden;
+	font-family: arial;
+	font-size: 18px;
+	font-weight: 700;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+	color: black;
+	display: inline-block;
+	text-decoration: none;
+	background: #DCDCDC;
+}*/
 
 
 /*1º carrossel*/
