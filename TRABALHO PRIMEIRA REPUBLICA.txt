@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    
+    <img src="https://fernandonogueiracosta.files.wordpress.com/2017/03/tropas_brasileiras_1835.jpg">
+
+
+  </head>
+  <h1><center>Primeira Republica</center></h1>
+
+<p>No entanto em 1889 a 1930 iniciou uma proclamação da republica que aconteceu em novembro de 1889 e encerrou- se com a deposição de Washimgton Luis consequência da revolução de 1930.Também foi conhecida como republica da espada por os dois Prisdente  Brasileiros (Deodoro da Fonseca e Floriano Peixoto serem militares. A republica da espada porem e um período incorporado a primeira republica.</p>
+<P>Republica e suas fases, como a consolidação em 1889 a 1898 das estruturas politicas e econômicas da primeira republica foi assinalado por crise da politica e na economia.</p>
+<p>Instiitucinalizaçao em 1889 a 1921 foi o período que a estrutura politica da primeira republica estava devidamente consolidada. Aqui se definiram políticos como a dos governadores e do café com leite.</p>
+ <p>Teve a crise na estrutura politica da primeira republica por incorporações de novos atores na politica, os conflitos entre oligarquias contribuindo para o fim da primeira republica.</p>
+<p>Os presidentes da priemira republica foram treze presidentes.</P>
+<p>1.DEODORO DA FONSECA 1889 A 1891</P>
+
+<p>2.FLORIANO PEIXOTO 1891 A 1891</P>
+
+<p>3.PRUDENTE DE MORAIS 1894 A 1898</p>
+
+<p>4.CAMPOS SALES 1898 A 1902</P>
+
+<p>5.RODRIGUES ALVES 1902 A 1906</p>
+
+<p>6.AFONSO PENA 1906 A 1909</p>
+
+<p>7.NILO PEÇANHA 1909 A 1910</p>
+
+<p>8.HERMES DA FONSECA 1910 A 1914</p> 
+
+<p>9.VENCELAU BRÁS 1914 A 1918</p>
+
+<p>10.DELFIM MOREIRA 1918 A 1919</p>
+
+<p>11.EPITACIO PESSOA 1919 A 1922</P>
+
+<p>12.ARTUR BENARDES 1922 A 1926</p> 
+
+<p>13.WASHINGTON LUIS 1926 A 1930</p>
+
+<p>Rodrigues Alves e Julio preste foram os dois presidentes eleitos mas que não assumiram nesse período.
+Politica dos governadores foi criado durante o governo de campos sales 1898 a 1902.</p>
+<p>Nessa  politica, a figura do coronel era fundamental, pois era ele que fazia todo arranjo para mobilizar os votos necessários e eleger os deputados da oligarquia apoiada pelo governo. O coronel tinha o poder local e para alcançar seus objetivos fazia  a distribuição de cargos de intimidação dos elitores, foi conhecido com voto de cabresto.</p>
+
+<p>Politica do café com leite: e um conceito clássico utilizado em referencia ao acordo entre oligarquias de são Paulo e minas gerais a respeito da escolha dos presidentes.</p>
+
+<p>Socioecomicas:  Começou  algumas transfomaçoes na economia que teve um desenvovimento industrial no brasil,e nisso a dependecia da exportação do café teve um aumento( ficou ate 1950).</P>
+<p>Os anos da primeira republica foram marcados por um crescimento urbano. Nas zonas rurais.</p>
+
+<p>Revoltas da republica velha: foi marcado por desrespeitos aos direitos sociais. A revolta resultavam das  dissidências politicas e da insatifaçao da população co a pobreza e desigualdade social.</p> 
+
+<p>Ao fim da republica velha: A primeira republica entrou em crise em 1920, quando o arranjo politico existente entre as oligarquias começou a ruir e as divisões começaram e se sobressair as tentativas de conciliação. Com essa crise teve a eleição presidencial de 1930, que colocaram Julio prestes e as dissidências oligarquiacas formado por mineiros, gaúchos e paraibanos lançaram Getulio vargas na chapa. Vargas foi derrotado, mas após assassinato de seu vice (por motivos não relacionados com a disputa eleitoral).</P>
+
+<iframe id="" allowtransparency="true" allowfullscreen="true" allow="geolocation; microphone; camera" src="https://my.forms.app/form/60949732001f18095ab83244" frameborder="0" style="width: 1px; min-width:100%; height:500px; border:none;"></iframe>
+
+  <body>
+    <script src="script.js"></script>
+  </body>
+</html>
